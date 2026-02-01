@@ -1,4 +1,4 @@
 [build]
-base = "frontend"
-publish = "."
+base = "."
+publish = "frontend"
 command = "echo 'no build'"
